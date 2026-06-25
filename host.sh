@@ -6,7 +6,7 @@ JENKINS_URL="http://localhost:8085"
 
 USER="admin"
 
-TOKEN="11a8f342bf6651dc12cdb1f6184c4aeb0d"
+TOKEN="<REPLACE_WITH_YOUR_TOKEN>"
 
 
 
